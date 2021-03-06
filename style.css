@@ -1,0 +1,133 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar ul li{
+    margin:0 5px;
+}
+/* baner */
+
+.baner {
+    background-color: #f9f9ff;
+}
+
+.left-hero {
+	padding-top: 200px;
+}
+.right-hero img {
+	max-width: 100%;
+	padding-left: 45px;
+}
+  .left-hero h1 {
+    font-size: 45px;
+    font-weight: 500;
+    padding: 20px 0;
+  }
+  .left-hero p {
+	font-size: 16px;
+	line-height: 29px;
+	padding: 0 0 23px 0;
+}
+.left-hero a {
+	background-color: #8392ff;
+	color: #fff;
+    font-weight: 600;
+}
+/* About us */
+
+.about-us {
+	padding: 40px 0;
+}
+.right-about {
+	padding-top: 104px;
+	padding-left: 92px;
+}
+.right-about h1 {
+	font-weight: 600;
+}
+.right-about a{
+    background-color: #8392ff;
+    color: #fff;
+}
+
+
+/* .success-section  */
+.success-section {
+    background-color: #8490ff;
+    padding: 20px 0;
+
+}
+
+.success-item {
+}
+/* service */
+.service {
+	background: #f9f9ff;
+	padding: 30px 0;
+}
+.sevice-item h4 {
+	padding: 8px 0;
+}
+.sevice-item {
+	background-color: #fff;
+	padding: 20px 0;
+}
+.sevice-item span {
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	background: #f9f9ff;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 100px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+/* support */
+.support {
+	padding: 8% 0 31px 0;
+}
+.support-member {
+	background-color: #fff;
+	box-shadow: 10px 10px 30px 5px rgba(0, 0, 0, .1);
+	padding: 58px 0 28px 0;
+    position: relative;
+}
+.support-member a{
+    background-color: #fff;
+	box-shadow: 10px 10px 30px 5px rgba(0, 0, 0, .1);
+    
+}
+.face1 {
+	position: absolute;
+	top: -70px;
+	left: 13px;
+	width: 34%;
+}
+
+/* .submit  */
+.submit {
+	background-color: #f9f9ff;
+	padding: 30px 0;
+	
+}
+.top-submit.text-center h1 {
+	padding: 3px 0 41px 0;
+}
+
+.top-submit h3 {
+	padding: 20px 0;
+}
+.left-submit {
+	background-color: #fff;
+	box-shadow: 10px 10px 30px 5px rgba(0, 0, 0, .1);
+	padding: 30px;
+}
+.left-submit h3{
+	padding: 20px 0;
+	text-transform: capitalize;
+}
+.right-submit {
+	padding-top: 90px;
+	padding-left: 40px;
+}
